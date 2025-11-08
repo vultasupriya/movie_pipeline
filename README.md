@@ -209,9 +209,3 @@ print(conn.execute("SELECT name FROM sqlite_master WHERE type='table';").fetchal
 - Create **Dash / Streamlit dashboard** for movie insights
 
 ---
-
-## 👨‍💻 Author
-Developed by **[Your Name]**  
-for **TSWorks Data Engineering Assignment**
-
-📧 *Replace this with your contact email (optional)*
